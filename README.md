@@ -1,6 +1,5 @@
 # Autonomous Load Management and Monitoring System
 
-![Direct Supply (440v) without load](https://github.com/hamzahassan535/Autonomous-Load-Management-and-Monitoring-System/assets/135664238/46367128-9ae1-402d-a953-bf9ebd89db2b)
 ![Prototype](https://github.com/hamzahassan535/Autonomous-Load-Management-and-Monitoring-System/assets/135664238/73e0cd33-0b71-4ab1-8af1-c4a9bd9f8040) 
 
 # Abstract
