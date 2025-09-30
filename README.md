@@ -72,7 +72,6 @@ Ensure proper wiring and connections are made as per the project documentation.
 Power on the system and verify the functionality of the load management and monitoring features.
 Access the wireless display from any smart electronic device connected to the Wi-Fi network to monitor load flow analysis wirelessly.
 
-![Final Autonomous Load Management and Monitoring System Prototype](https://github.com/hamzahassan535/Autonomous-Load-Management-and-Monitoring-System/assets/135664238/cc918a7a-9dd0-47a0-9d8f-d012ad8dffab)
 
 
 # Conclusion
